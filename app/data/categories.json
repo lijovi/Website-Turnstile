@@ -1,0 +1,8 @@
+[
+  { "id": "tripod-turnstile", "name": "Tripod Turnstile" },
+  { "id": "flap-barrier", "name": "Flap Barrier" },
+  { "id": "swing-barrier", "name": "Swing Barrier" },
+  { "id": "full-height-turnstile", "name": "Full Height Turnstile" },
+  { "id": "access-control", "name": "Access Control System" },
+  { "id": "access-control2", "name": "Access Control System 2" }
+]

@@ -1,0 +1,59 @@
+{
+  "pageTitle": "Tentang Kami",
+  "pageSubtitle": "Mitra terpercaya Anda dalam solusi keamanan akses dan turnstile gate sejak 2015.",
+  "heroImage": "/assets/CompanyPicture/about-hero.png",
+  "history": {
+    "title": "Sejarah & Profil Perusahaan",
+    "content": "TurnstileGate Indonesia didirikan pada tahun 2015 dengan visi menjadi penyedia solusi keamanan akses terkemuka di Indonesia. Berawal dari kantor kecil di Jakarta, kini kami telah berkembang menjadi perusahaan dengan tim profesional lebih dari 50 orang dan telah menyelesaikan lebih dari 500 proyek instalasi di seluruh Indonesia.\n\nKami menyediakan berbagai jenis turnstile gate mulai dari tripod turnstile, flap barrier, swing barrier, hingga full height turnstile. Setiap produk kami diseleksi ketat dari pabrikan terbaik dan didukung oleh layanan instalasi serta purna jual yang profesional.",
+    "image": "/assets/CompanyPicture/about-history.png"
+  },
+  "vision": {
+    "title": "Visi",
+    "content": "Menjadi penyedia solusi keamanan akses dan turnstile gate #1 di Indonesia yang dikenal karena kualitas produk, pelayanan prima, dan inovasi berkelanjutan."
+  },
+  "mission": {
+    "title": "Misi",
+    "items": [
+      "Menyediakan produk turnstile gate berkualitas tinggi dengan harga kompetitif",
+      "Memberikan layanan instalasi profesional dan tepat waktu",
+      "Membangun hubungan jangka panjang dengan klien melalui after-sales service terbaik",
+      "Terus berinovasi mengikuti perkembangan teknologi keamanan terbaru"
+    ]
+  },
+  "visionMissionImage": "/assets/CompanyPicture/about-vm.png",
+  "certifications": [
+    { "name": "ISO 9001:2015", "image": "/assets/images/certifications/iso-9001.png" },
+    { "name": "CE Certification", "image": "/assets/images/certifications/ce.png" },
+    { "name": "SNI", "image": "/assets/images/certifications/sni.png" },
+    { "name": "Member APSI", "image": "/assets/images/certifications/apsi.png" }
+  ],
+  "whyChooseUs": [
+    {
+      "iconType": "trophy",
+      "title": "Produk Berkualitas",
+      "description": "Semua produk kami diseleksi ketat dari pabrikan terkemuka dengan standar internasional."
+    },
+    {
+      "iconType": "bolt",
+      "title": "Instalasi Cepat & Profesional",
+      "description": "Tim teknisi berpengalaman dengan proses instalasi terstandarisasi untuk hasil optimal."
+    },
+    {
+      "iconType": "handshake",
+      "title": "Layanan Purna Jual Terbaik",
+      "description": "Garansi resmi, maintenance berkala, dan tim support yang siap membantu 24/7."
+    }
+  ],
+  "clients": [
+    { "name": "PT. Graha Persada", "logo": "/assets/images/clients/client-1.png" },
+    { "name": "PT. MRT Jakarta", "logo": "/assets/images/clients/client-2.png" },
+    { "name": "Bank Indonesia", "logo": "/assets/images/clients/client-3.png" },
+    { "name": "Universitas Indonesia", "logo": "/assets/images/clients/client-4.png" },
+    { "name": "PT. Astra International", "logo": "/assets/images/clients/client-5.png" }
+  ],
+  "ctaClosing": {
+    "title": "Tertarik Bekerja Sama dengan Kami?",
+    "subtitle": "Konsultasikan kebutuhan keamanan akses Anda dengan tim ahli kami. Gratis, tanpa komitmen.",
+    "buttonText": "Hubungi Kami Sekarang"
+  }
+}

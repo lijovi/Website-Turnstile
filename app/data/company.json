@@ -1,0 +1,22 @@
+{
+  "name": "TurnstileGate Indonesia",
+  "tagline": "Solusi Keamanan Akses Terpercaya",
+  "description": "Penyedia turnstile gate dan sistem akses kontrol terkemuka di Indonesia dengan pengalaman lebih dari 10 tahun.",
+  "phone": "+62 21 1234 5672",
+  "whatsapp": "6281234567890",
+  "email": "info@turnstilegate.co.id",
+  "address": "Jl. Sudirman No. 123, Jakarta Selatan, DKI Jakarta 12190",
+  "operatingHours": "Senin - Jumat: 08.00 - 17.00 WIB",
+  "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.521260322283!2d106.81340841476908!3d-6.194741395515402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5d2e764b12d%3A0x3d2ad6e1e0e9bcc8!2sJakarta!5e0!3m2!1sen!2sid!4v1625647890123!5m2!1sen!2sid",
+  "social": {
+    "instagram": "https://instagram.com/turnstilegate.id",
+    "linkedin": "https://linkedin.com/company/turnstilegate-indonesia",
+    "youtube": "https://youtube.com/@turnstilegate-id"
+  },
+  "emailJs": {
+    "serviceId": "service_xxxxxxx",
+    "templateId": "template_xxxxxx",
+    "publicKey": "xxxxxxxxxxxxxxxxx"
+  },
+  "copyright": "© 2026 TurnstileGate Indonesia. All rights reserved."
+}

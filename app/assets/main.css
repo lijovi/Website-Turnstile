@@ -1,0 +1,130 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+
+  --color-section: #FAFAFA;
+  --color-heading: #000000;
+  --color-body: #404040;
+  --color-body-light: #737373;
+  --color-divider: #D4D4D4;
+  --color-divider-light: #F5F5F5;
+  --color-link: #000000;
+  --color-link-light: #F5F5F5;
+  --color-link-hover: #525252;
+  /* Accent */
+  --color-star: #FF9500;
+  --color-success: #0e8f00;
+  --color-success-dark: #0b7300;
+}
+
+/* ===== GLOBAL RESETS ===== */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ===== SCROLLBAR ===== */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-section);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-divider);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-body);
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 1; }
+  100% { transform: scale(1.6); opacity: 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes marquee-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes countUp {
+  from { opacity: 0; transform: scale(0.5); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-fade-in-up { animation: fadeInUp 0.6s ease-out forwards; }
+.animate-slide-right { animation: slideInRight 0.6s ease-out forwards; }
+.animate-float { animation: float 3s ease-in-out infinite; }
+.animate-marquee-left {
+  animation: marquee-left 40s linear infinite;
+}
+.animate-marquee-left:hover {
+  animation-play-state: paused;
+}
+
+.animation-delay-200 { animation-delay: 0.2s; }
+.animation-delay-300 { animation-delay: 0.3s; }
+.animation-delay-400 { animation-delay: 0.4s; }
+
+/* ===== UTILITIES (Kept only complex ones that are hard to do purely with Tailwind classes) ===== */
+.placeholder-gradient {
+  background: linear-gradient(135deg, var(--color-divider-light) 0%, var(--color-divider) 50%, var(--color-divider-light) 100%);
+  background-size: 200% 200%;
+  animation: shimmer 3s ease-in-out infinite;
+}
+/* Scroll Reveal Animations */
+.scroll-reveal {
+  opacity: 0;
+  transition: opacity 0.65s ease, transform 0.65s ease;
+}
+.scroll-reveal.reveal-up { transform: translateY(36px); }
+.scroll-reveal.reveal-left { transform: translateX(-36px); }
+.scroll-reveal.reveal-right { transform: translateX(36px); }
+.scroll-reveal.reveal-scale { transform: scale(0.95); }
+.scroll-reveal:not(.reveal-up):not(.reveal-left):not(.reveal-right):not(.reveal-scale) {
+  transform: translateY(24px);
+}
+.scroll-reveal.is-visible {
+  opacity: 1;
+  transform: translate(0, 0) scale(1);
+}
+
+/* ===== HERO GRADIENT ===== */
+.gradient-hero {
+  background: #ffffff;
+}

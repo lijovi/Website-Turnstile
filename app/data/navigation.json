@@ -1,0 +1,15 @@
+{
+  "mainNav": [
+    { "text": "Home", "link": "/" },
+    { "text": "Product", "link": "/produk" },
+    { "text": "About", "link": "/tentang-kami" }
+  ],
+  "ctaButton": {
+    "text": "Contact Us",
+    "link": "/#kontak"
+  },
+  "footer": {
+    "ctaTitle": "Konsultasi Gratis",
+    "ctaDescription": "Tim ahli kami siap membantu Anda memilih solusi keamanan akses yang tepat."
+  }
+}

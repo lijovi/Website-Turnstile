@@ -1,0 +1,30 @@
+{
+  "featuredProducts": {
+    "badge": "Our Products",
+    "title": "Enterprise Access Control Systems",
+    "subtitle": "",
+    "buttonText": "More Products"
+  },
+  "projects": {
+    "badge": "Portfolio",
+    "title": "Our Projects",
+    "subtitle": ""
+  },
+  "testimonials": {
+    "badge": "Testimony",
+    "title": "Client Success Stories",
+    "subtitle": "Real feedback from Jakarta’s top system integrators, facility managers, and smart building contractors."
+  },
+  "faq": {
+    "badge": "",
+    "title": "Frequently Asked Question",
+    "subtitle": ""
+  },
+  "contact": {
+    "badge": "",
+    "title": "Contact Us",
+    "subtitle": "",
+    "formTitle": "",
+    "infoTitle": "Company Information"
+  }
+}

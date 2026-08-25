@@ -1,0 +1,25 @@
+{
+  "headline": "Premium Turnstile Gate Supplier & Distributor in Indonesia",
+  "subheadline": "Empowering ICT integrators and security companies with enterprise-grade turnstile hardware, seamless software integration, and localized technical support.",
+  "heroImage": "/assets/images/hero.png",
+  "ctaPrimary": {
+    "text": "Our Products",
+    "link": "/produk"
+  },
+  "ctaSecondary": {
+    "text": "Contact Us",
+    "link": "#kontak"
+  },
+  "badges": [
+    {
+      "value": "500+",
+      "label": "Installation",
+      "position": "top-right"
+    },
+    {
+      "value": "24/7",
+      "label": "Support",
+      "position": "bottom-left"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Gedung Perkantoran Jakarta CBD",
+    "description": "Instalasi 12 unit Flap Barrier FB-500 Premium untuk lobby utama gedung 42 lantai.",
+    "client": "PT. Graha Persada",
+    "image": "/src/assets/Project/project-1.png"
+  },
+  {
+    "id": 2,
+    "title": "Stasiun MRT Bundaran HI",
+    "description": "Pemasangan 24 unit Tripod Turnstile TS-200 Pro dengan integrasi tiket elektronik.",
+    "client": "PT. MRT Jakarta",
+    "image": "/src/assets/Project/project-2.png"
+  },
+  {
+    "id": 3,
+    "title": "Pabrik Manufaktur Cikarang",
+    "description": "Implementasi 8 unit Full Height Turnstile FH-600 untuk area produksi keamanan tinggi.",
+    "client": "PT. Indo Manufaktur",
+    "image": "/src/assets/Project/project-3.png"
+  }
+]

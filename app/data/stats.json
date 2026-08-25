@@ -1,0 +1,22 @@
+[
+  {
+    "iconType": "calendar",
+    "value": "50+",
+    "label": "Turnstile Lanes Installed Across Indonesia"
+  },
+  {
+    "iconType": "building",
+    "value": "99.9%",
+    "label": "Operational Uptime with High MTBF Motors"
+  },
+  {
+    "iconType": "shield",
+    "value": "24 Hours",
+    "label": "Technical Support Response"
+  },
+  {
+    "iconType": "clock",
+    "value": "100%",
+    "label": "Support Major Access Control Readers"
+  }
+]

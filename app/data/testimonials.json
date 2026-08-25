@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Budi Santoso",
+    "role": "Facility Manager",
+    "company": "PT. Graha Persada",
+    "text": "Kualitas produk turnstile dari TurnstileGate Indonesia sangat baik. Instalasi cepat dan tim support sangat responsif. Sudah 3 tahun berjalan tanpa kendala berarti.",
+    "avatar": "/assets/images/testimonials/avatar-1.jpg",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Siti Rahayu",
+    "role": "Building Manager",
+    "company": "Menara Astra",
+    "text": "Kami sangat puas dengan flap barrier yang dipasang di lobby gedung kami. Desainnya elegan dan performa sangat stabil. Layanan after-sales juga sangat memuaskan.",
+    "avatar": "/assets/images/testimonials/avatar-2.jpg",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Andi Wijaya",
+    "role": "Security Director",
+    "company": "PT. Indo Manufaktur",
+    "text": "Full height turnstile yang kami gunakan bekerja sempurna untuk mengamankan area produksi. Integrasi dengan sistem absensi berjalan mulus. Highly recommended!",
+    "avatar": "/assets/images/testimonials/avatar-3.jpg",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Joseph Alexander",
+    "role": "Building Manager",
+    "company": "PT. Global Tech",
+    "text": "TurnstileGate Indonesia memberikan solusi keamanan yang sangat profesional. Tim mereka sangat berpengalaman dan selalu siap membantu. Produk yang kami gunakan sudah berjalan lancar selama lebih dari 2 tahun.",
+    "avatar": "/assets/images/testimonials/avatar-4.jpg",
+    "rating": 4
+  }
+]

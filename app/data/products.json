@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "slug": "tripod-turnstile-ts-100",
+    "name": "Tripod Turnstile TS-100",
+    "category": "tripod-turnstile",
+    "shortDesc": "Turnstile tripod semi-otomatis untuk akses gedung perkantoran dan area publik.",
+    "description": "Tripod Turnstile TS-100 adalah solusi akses kontrol yang handal dan ekonomis untuk gedung perkantoran, stasiun, dan area publik. Desain kompak dengan mekanisme semi-otomatis yang tahan lama. Mendukung integrasi dengan berbagai sistem identifikasi termasuk RFID, fingerprint, dan QR code.",
+    "image": "/assets/ProductImage/tripod-ts100.jpg",
+    "gallery": [
+      "/assets/ProductImage/tripod-ts100.jpg",
+      "/assets/ProductImage/tripod-ts100-2.jpg",
+      "/assets/ProductImage/tripod-ts100-3.jpg",
+      "/assets/ProductImage/tripod-ts100-4.jpg",
+      "/assets/ProductImage/tripod-ts100-4.jpg"
+    ],
+    "specs": {
+      "Material": "Stainless Steel 304",
+      "Dimensi": "480 x 280 x 980 mm",
+      "Power Supply": "AC 100-240V, 50/60Hz",
+      "Kecepatan Akses": "30-40 orang/menit",
+      "Metode Integrasi": "RFID / Fingerprint / QR Code",
+      "Garansi": "2 Tahun"
+    },
+    "brochureUrl": "/pdf/tripod-ts100.pdf",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "tripod-turnstile-ts-200",
+    "name": "Tripod Turnstile TS-200 Pro",
+    "category": "tripod-turnstile",
+    "shortDesc": "Turnstile tripod full-otomatis dengan motor DC brushless.",
+    "description": "Tripod Turnstile TS-200 Pro menggunakan motor DC brushless untuk operasi yang lebih halus dan senyap. Dilengkapi anti-tailgating dan fitur anti-panic untuk keamanan maksimal. Ideal untuk gedung perkantoran premium dan fasilitas pemerintah.",
+    "image": "/assets/ProductImage/tripod-ts200.jpg",
+    "gallery": [
+      "/assets/ProductImage/tripod-ts200.jpg",
+      "/assets/ProductImage/tripod-ts200-2.jpg",
+      "/assets/ProductImage/tripod-ts200-3.jpg",
+      "/assets/ProductImage/tripod-ts200-4.jpg"
+    ],
+    "specs": {
+      "Material": "Stainless Steel 304 Brushed",
+      "Dimensi": "480 x 280 x 1000 mm",
+      "Power Supply": "AC 100-240V, 50/60Hz",
+      "Kecepatan Akses": "35-45 orang/menit",
+      "Metode Integrasi": "RFID / Fingerprint / QR / Face Recognition",
+      "Garansi": "3 Tahun"
+    },
+    "brochureUrl": "/pdf/tripod-ts200.pdf",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "slug": "flap-barrier-fb-300",
+    "name": "Flap Barrier FB-300",
+    "category": "flap-barrier",
+    "shortDesc": "Flap barrier elegan untuk lobby gedung dan area premium.",
+    "description": "Flap Barrier FB-300 menggabungkan estetika modern dengan teknologi akses kontrol canggih. Sayap flap yang lebar cocok untuk pengguna kursi roda dan troli. Operasi senyap dengan motor servo presisi tinggi.",
+    "image": "/assets/ProductImage/flap-fb300.jpg",
+    "gallery": [
+      "/assets/ProductImage/flap-fb300.jpg",
+      "/assets/ProductImage/flap-fb300-2.jpg",
+      "/assets/ProductImage/flap-fb300-3.jpg",
+      "/assets/ProductImage/flap-fb300-4.jpg"
+    ],
+    "specs": {
+      "Material": "Stainless Steel 304 + Tempered Glass",
+      "Dimensi": "1400 x 300 x 1000 mm",
+      "Power Supply": "AC 100-240V, 50/60Hz",
+      "Kecepatan Akses": "25-35 orang/menit",
+      "Metode Integrasi": "RFID / Fingerprint / QR / Face Recognition",
+      "Garansi": "2 Tahun"
+    },
+    "brochureUrl": "/pdf/flap-fb300.pdf",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "slug": "flap-barrier-fb-500",
+    "name": "Flap Barrier FB-500 Premium",
+    "category": "flap-barrier",
+    "shortDesc": "Flap barrier premium dengan desain slim dan fitur anti-tailgating.",
+    "description": "Flap Barrier FB-500 Premium adalah pilihan terbaik untuk lobby gedung mewah dan fasilitas VIP. Desain ultra-slim dengan panel tempered glass yang elegan. Dilengkapi sensor infrared ganda untuk anti-tailgating yang akurat.",
+    "image": "/assets/ProductImage/flap-fb500.jpg",
+    "gallery": [
+      "/assets/ProductImage/flap-fb500.jpg",
+      "/assets/ProductImage/flap-fb500-2.jpg",
+      "/assets/ProductImage/flap-fb500-3.jpg",
+      "/assets/ProductImage/flap-fb500-4.jpg"
+    ],
+    "specs": {
+      "Material": "Stainless Steel 316 + Tempered Glass",
+      "Dimensi": "1500 x 280 x 1020 mm",
+      "Power Supply": "AC 100-240V, 50/60Hz",
+      "Kecepatan Akses": "30-40 orang/menit",
+      "Metode Integrasi": "RFID / Fingerprint / QR / Face Recognition",
+      "Garansi": "3 Tahun"
+    },
+    "brochureUrl": "/pdf/flap-fb500.pdf",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "slug": "swing-barrier-sb-400",
+    "name": "Swing Barrier SB-400",
+    "category": "swing-barrier",
+    "shortDesc": "Swing barrier lebar untuk akses disabilitas dan troli barang.",
+    "description": "Swing Barrier SB-400 dirancang khusus untuk akses yang lebih lebar, cocok untuk pengguna kursi roda, troli barang, dan kebutuhan aksesibilitas. Gate dapat dibuka hingga 180° dengan mekanisme auto-close.",
+    "image": "/assets/ProductImage/swing-sb400.jpg",
+    "gallery": [
+      "/assets/ProductImage/swing-sb400.jpg",
+      "/assets/ProductImage/swing-sb400-2.jpg",
+      "/assets/ProductImage/swing-sb400-3.jpg",
+      "/assets/ProductImage/swing-sb400-4.jpg"
+    ],
+    "specs": {
+      "Material": "Stainless Steel 304 + Acrylic Panel",
+      "Dimensi": "1200 x 300 x 1000 mm",
+      "Power Supply": "AC 100-240V, 50/60Hz",
+      "Kecepatan Akses": "20-30 orang/menit",
+      "Metode Integrasi": "RFID / Fingerprint / QR Code",
+      "Garansi": "2 Tahun"
+    },
+    "brochureUrl": "/pdf/swing-sb400.pdf",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "slug": "full-height-turnstile-fh-600",
+    "name": "Full Height Turnstile FH-600",
+    "category": "full-height-turnstile",
+    "shortDesc": "Turnstile full-height untuk keamanan maksimal area industri.",
+    "description": "Full Height Turnstile FH-600 memberikan keamanan tingkat tertinggi untuk area industri, pabrik, dan fasilitas keamanan tinggi. Konstruksi kokoh setinggi 2.3 meter yang mencegah akses tidak sah secara total. Tahan cuaca untuk penggunaan outdoor.",
+    "image": "/assets/ProductImage/fullheight-fh600.jpg",
+    "gallery": [
+      "/assets/ProductImage/fullheight-fh600.jpg",
+      "/assets/ProductImage/fullheight-fh600-2.jpg",
+      "/assets/ProductImage/fullheight-fh600-3.jpg",
+      "/assets/ProductImage/fullheight-fh600-4.jpg"
+    ],
+    "specs": {
+      "Material": "Stainless Steel 304 Heavy Duty",
+      "Dimensi": "1420 x 1420 x 2300 mm",
+      "Power Supply": "AC 100-240V, 50/60Hz",
+      "Kecepatan Akses": "20-25 orang/menit",
+      "Metode Integrasi": "RFID / Fingerprint / QR / Face Recognition",
+      "Garansi": "3 Tahun"
+    },
+    "brochureUrl": "/pdf/fullheight-fh600.pdf",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "slug": "access-control-panel-acp-100",
+    "name": "Access Control Panel ACP-100",
+    "category": "access-control",
+    "shortDesc": "Panel kontrol akses terintegrasi untuk manajemen pintu dan gate.",
+    "description": "Access Control Panel ACP-100 adalah otak dari sistem keamanan akses Anda. Mendukung hingga 4 pintu/gate sekaligus dengan kapasitas 10.000 kartu pengguna. Dilengkapi software manajemen berbasis web untuk monitoring real-time.",
+    "image": "/assets/ProductImage/acp-100.jpg",
+    "gallery": [
+      "/assets/ProductImage/acp-100.jpg",
+      "/assets/ProductImage/acp-100-2.jpg",
+      "/assets/ProductImage/acp-100-3.jpg",
+      "/assets/ProductImage/acp-100-4.jpg"
+    ],
+    "specs": {
+      "Material": "Metal Enclosure IP65",
+      "Dimensi": "320 x 280 x 90 mm",
+      "Power Supply": "DC 12V / 3A",
+      "Kecepatan Akses": "N/A",
+      "Metode Integrasi": "RFID / Fingerprint / QR / Face Recognition / Wiegand",
+      "Garansi": "2 Tahun"
+    },
+    "brochureUrl": "/pdf/acp-100.pdf",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "slug": "swing-barrier-sb-500-premium",
+    "name": "Swing Barrier SB-500 Premium",
+    "category": "swing-barrier",
+    "shortDesc": "Swing barrier premium dengan desain minimalis dan motor brushless.",
+    "description": "Swing Barrier SB-500 Premium menggunakan motor brushless DC untuk operasi yang senyap dan tahan lama. Desain minimalis cocok untuk gedung perkantoran modern dan pusat perbelanjaan premium.",
+    "image": "/assets/ProductImage/swing-sb500.jpg",
+    "gallery": [
+      "/assets/ProductImage/swing-sb500.jpg",
+      "/assets/ProductImage/swing-sb500-2.jpg",
+      "/assets/ProductImage/swing-sb500-3.jpg",
+      "/assets/ProductImage/swing-sb500-4.jpg"
+    ],
+    "specs": {
+      "Material": "Stainless Steel 316 + Tempered Glass",
+      "Dimensi": "1300 x 280 x 1020 mm",
+      "Power Supply": "AC 100-240V, 50/60Hz",
+      "Kecepatan Akses": "25-35 orang/menit",
+      "Metode Integrasi": "RFID / Fingerprint / QR / Face Recognition",
+      "Garansi": "3 Tahun"
+    },
+    "brochureUrl": "/pdf/swing-sb500.pdf",
+    "featured": false
+  }
+]
