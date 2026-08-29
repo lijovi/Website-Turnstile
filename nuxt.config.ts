@@ -1,9 +1,7 @@
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
-   nitro: {
-    preset: 'cloudflare'
-  },
+  
   compatibilityDate: '2024-04-03',
   future: {
     compatibilityVersion: 4,
